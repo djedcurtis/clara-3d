@@ -5,13 +5,13 @@ export const scene = {
         {
             "r": 0,
             "c": 0,
-            "tid": 2,
+            "tid": 1,
             "d": 0
         },
         {
             "r": 0,
             "c": 1,
-            "tid": 2,
+            "tid": 1,
             "d": 0
         },
         {
@@ -149,7 +149,7 @@ export const scene = {
         {
             "r": 4,
             "c": 0,
-            "tid": 2,
+            "tid": 1,
             "d": 0
         },
         {
@@ -198,12 +198,6 @@ export const scene = {
             "r": 5,
             "c": 0,
             "tid": 1,
-            "d": 0
-        },
-        {
-            "r": 5,
-            "c": 3,
-            "tid": 5,
             "d": 0
         },
         {
@@ -258,12 +252,6 @@ export const scene = {
             "r": 6,
             "c": 0,
             "tid": 1,
-            "d": 0
-        },
-        {
-            "r": 6,
-            "c": 1,
-            "tid": 6,
             "d": 0
         },
         {
