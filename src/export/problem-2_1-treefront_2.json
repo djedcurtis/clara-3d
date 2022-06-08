@@ -1,0 +1,22 @@
+{
+    "id": "8qJgLNjwLA6YtjhRz",
+    "name": "Problem 2_1 - TreeFront",
+    "rows": 1,
+    "columns": 10,
+    "tiles": [
+        {
+            "id": 2,
+            "r": 0,
+            "c": 9,
+            "d": 0,
+            "tid": 1
+        },
+        {
+            "id": 1,
+            "r": 0,
+            "c": 0,
+            "d": 1,
+            "tid": 4
+        }
+    ]
+}

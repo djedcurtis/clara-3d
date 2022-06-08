@@ -1,0 +1,20 @@
+{
+    "id": "9RNhjF3pLdp6bqD2P",
+    "name": "Problem 7_1 - Simple Array",
+    "rows": 10,
+    "columns": 11,
+    "tiles": [
+        {
+            "r": 3,
+            "c": 5,
+            "tid": 5,
+            "d": 0
+        },
+        {
+            "r": 8,
+            "c": 0,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

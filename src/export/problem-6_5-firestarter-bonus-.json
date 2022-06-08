@@ -1,0 +1,14 @@
+{
+    "id": "Bmg6WYvF8R27XsreA",
+    "name": "Problem 6_5 -  Firestarter (Bonus)",
+    "rows": 30,
+    "columns": 40,
+    "tiles": [
+        {
+            "r": 0,
+            "c": 0,
+            "d": 1,
+            "tid": 4
+        }
+    ]
+}

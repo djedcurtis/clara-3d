@@ -1,0 +1,14 @@
+{
+    "id": "e94LBRS9g8wXA4iyx",
+    "name": "Problem 6_2 -  Multiple Rooms",
+    "rows": 15,
+    "columns": 20,
+    "tiles": [
+        {
+            "r": 13,
+            "c": 1,
+            "d": 1,
+            "tid": 4
+        }
+    ]
+}

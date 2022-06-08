@@ -3,16 +3,20 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "dev": "node --inspect ./node_modules/next/dist/bin/next dev",
+    "build": "prisma generate &&  next build",
+    "start": "next start"
   },
   "dependencies": {
     "@babylonjs/core": "^5.0.2",
     "@babylonjs/gui": "^5.0.2",
     "@babylonjs/loaders": "^5.0.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "@prisma/client": "^3.14.0",
+    "@types/node": "^17.0.40",
+    "next": "^12.1.6",
+    "prisma": "^3.14.0",
+    "react": "^18.0.2",
+    "react-dom": "^18.0.2",
     "vite-plugin-full-reload": "^1.0.0"
   },
   "devDependencies": {

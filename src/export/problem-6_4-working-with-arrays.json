@@ -1,0 +1,20 @@
+{
+    "id": "9q9bktHPt2cN3jev9",
+    "name": "Problem 6_4 - Working with Arrays",
+    "rows": 10,
+    "columns": 11,
+    "tiles": [
+        {
+            "r": 3,
+            "c": 5,
+            "tid": 5,
+            "d": 0
+        },
+        {
+            "r": 8,
+            "c": 0,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

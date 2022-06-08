@@ -1,0 +1,14 @@
+{
+    "id": "9KbuovCfWaghNhrom",
+    "name": "Problem 1 - Drawing the basket",
+    "rows": 20,
+    "columns": 25,
+    "tiles": [
+        {
+            "r": 18,
+            "c": 2,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

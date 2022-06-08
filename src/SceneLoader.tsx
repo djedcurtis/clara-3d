@@ -1,10 +1,9 @@
 // imports & includes
-import * as BABYLON from "@babylonjs/core";
-import { TimerState } from "@babylonjs/core";
-import * as GUI from "@babylonjs/gui";
-import "@babylonjs/loaders/glTF/2.0/glTFLoader";
+import * as BABYLON from '@babylonjs/core';
+import * as GUI from '@babylonjs/gui';
+import '@babylonjs/loaders/glTF/2.0/glTFLoader';
 
-import { Atlas, preloadMeshes } from "./MeshLoader";
+import { Atlas, preloadMeshes } from './MeshLoader';
 
 // board details object
 type SceneDefinition = {
@@ -130,7 +129,7 @@ export class SceneLoader {
       camera.attachControl("canvas", true);
       this.camera = camera;
 
-      /* BELOW IS FOR MINIMAP CODE, NOT SURE ABT IT YET 
+      /* BELOW IS FOR MINIMAP CODE, NOT SURE ABT IT YET
       var camera2 = new BABYLON.ArcRotateCamera("Camera", -Math.PI/2, 0.001, 60, new BABYLON.Vector3(11, -2, 13.5), scene);
       scene.activeCameras = [];
       // scene.activeCameras.push(camera2);
@@ -139,7 +138,7 @@ export class SceneLoader {
       camera2.attachControl(canvas, true);
 
 	    camera2.layerMask = 2;
-      
+
 	    var epsilon = .9999999;  // threshold
 
       var rt2 = new BABYLON.RenderTargetTexture("depth", 1024, scene, true, true);
@@ -167,7 +166,7 @@ export class SceneLoader {
 	    // mon2.parent = camera;
 	    mon2.layerMask = 1;
 
-	    mon2.enableEdgesRendering(epsilon);	
+	    mon2.enableEdgesRendering(epsilon);
 	    mon2.edgesWidth = 5.0;
 	    mon2.edgesColor = new BABYLON.Color4(1, 1, 1, 1);
 
@@ -571,6 +570,8 @@ export class SceneLoader {
     engine.runRenderLoop(function () {
       scene.render();
     });
+
+    return engine;
   }
 
   // load scene function

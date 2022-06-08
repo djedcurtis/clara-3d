@@ -1,0 +1,38 @@
+{
+    "id": "XodWjhFv3usNHwAZj",
+    "name": "Tomas - Class 2 - IF Explication",
+    "rows": 3,
+    "columns": 10,
+    "tiles": [
+        {
+            "r": 1,
+            "c": 6,
+            "tid": 1,
+            "d": 0
+        },
+        {
+            "r": 1,
+            "c": 1,
+            "tid": 5,
+            "d": 0
+        },
+        {
+            "r": 1,
+            "c": 2,
+            "tid": 5,
+            "d": 0
+        },
+        {
+            "r": 1,
+            "c": 3,
+            "tid": 5,
+            "d": 0
+        },
+        {
+            "r": 1,
+            "c": 0,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "CTRfuM7J76ptgBqvE",
+    "name": "Problem 1 - First Steps (Solution)",
+    "rows": 3,
+    "columns": 5,
+    "tiles": [
+        {
+            "r": 2,
+            "c": 3,
+            "d": 0,
+            "tid": 1
+        },
+        {
+            "r": 2,
+            "c": 4,
+            "d": 0,
+            "tid": 1
+        },
+        {
+            "r": 2,
+            "c": 1,
+            "d": 0,
+            "tid": 5
+        },
+        {
+            "r": 2,
+            "c": 0,
+            "d": 1,
+            "tid": 4
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "K7fFHkL7qrMDpBEBo",
+    "name": "Part 1 - Kor Kor teach function",
+    "rows": 1,
+    "columns": 10,
+    "tiles": [
+        {
+            "id": 2,
+            "r": 0,
+            "c": 9,
+            "d": 0,
+            "tid": 1
+        },
+        {
+            "id": 1,
+            "r": 0,
+            "c": 0,
+            "d": 1,
+            "tid": 4
+        }
+    ]
+}

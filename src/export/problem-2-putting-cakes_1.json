@@ -1,0 +1,14 @@
+{
+    "id": "WBYhD9o6DqickRk5m",
+    "name": "Problem 2 - Putting Cakes",
+    "rows": 20,
+    "columns": 25,
+    "tiles": [
+        {
+            "r": 18,
+            "c": 2,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

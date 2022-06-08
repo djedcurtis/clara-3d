@@ -1,0 +1,14 @@
+{
+    "id": "GF7tMhZJZhwXNFZK9",
+    "name": "Q21 - Draw a pedestrian crossing",
+    "rows": 12,
+    "columns": 12,
+    "tiles": [
+        {
+            "r": 10,
+            "c": 1,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

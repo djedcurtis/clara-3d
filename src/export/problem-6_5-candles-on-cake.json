@@ -1,0 +1,14 @@
+{
+    "id": "3gNjTwrEPRRjBcKGK",
+    "name": "Problem 6_5 - Candles on Cake",
+    "rows": 15,
+    "columns": 20,
+    "tiles": [
+        {
+            "r": 13,
+            "c": 1,
+            "d": 1,
+            "tid": 4
+        }
+    ]
+}

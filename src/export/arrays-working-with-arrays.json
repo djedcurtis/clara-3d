@@ -1,0 +1,14 @@
+{
+    "id": "CZdoSnRRaGpfeRwJY",
+    "name": "Arrays: Working with Arrays",
+    "rows": 1,
+    "columns": 10,
+    "tiles": [
+        {
+            "r": 0,
+            "c": 0,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

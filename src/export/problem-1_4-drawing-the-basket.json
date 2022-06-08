@@ -1,0 +1,14 @@
+{
+    "id": "sSerS4PBmc784fmfD",
+    "name": "Problem 1_4 - Drawing the basket",
+    "rows": 20,
+    "columns": 25,
+    "tiles": [
+        {
+            "r": 18,
+            "c": 2,
+            "d": 1,
+            "tid": 4
+        }
+    ]
+}

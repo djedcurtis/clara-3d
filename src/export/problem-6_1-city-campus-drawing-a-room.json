@@ -1,0 +1,14 @@
+{
+    "id": "r7K2mmtWzqk6iLkJ9",
+    "name": "Problem 6_1 (City Campus) - Drawing a room",
+    "rows": 15,
+    "columns": 20,
+    "tiles": [
+        {
+            "r": 13,
+            "c": 1,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

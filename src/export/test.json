@@ -1,0 +1,14 @@
+{
+    "id": "nhAtCPYz75tYsbhLv",
+    "name": "TEST",
+    "rows": 20,
+    "columns": 20,
+    "tiles": [
+        {
+            "r": 0,
+            "c": 0,
+            "tid": 4,
+            "d": 0
+        }
+    ]
+}

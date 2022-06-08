@@ -1,0 +1,20 @@
+{
+    "id": "7AmXiPDCRuhAeNi8y",
+    "name": "Count cells",
+    "rows": 1,
+    "columns": 9,
+    "tiles": [
+        {
+            "r": 0,
+            "c": 8,
+            "tid": 1,
+            "d": 0
+        },
+        {
+            "r": 0,
+            "c": 0,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

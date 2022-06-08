@@ -1,0 +1,14 @@
+{
+    "id": "RioZLuYtmDHty86RB",
+    "name": "Problem 3 - Putting Cakes(Clone)",
+    "rows": 20,
+    "columns": 25,
+    "tiles": [
+        {
+            "r": 18,
+            "c": 2,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

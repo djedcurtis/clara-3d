@@ -1,0 +1,14 @@
+{
+    "id": "2XG6KFQdn7MSA7xnS",
+    "name": "Problem 6_1 - Drawing a room",
+    "rows": 15,
+    "columns": 20,
+    "tiles": [
+        {
+            "r": 13,
+            "c": 1,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

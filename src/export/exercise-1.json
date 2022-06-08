@@ -1,0 +1,22 @@
+{
+    "id": "j84xyrcKms8BtuRh3",
+    "name": "Exercise 1",
+    "rows": 5,
+    "columns": 6,
+    "tiles": [
+        {
+            "id": 2,
+            "r": 3,
+            "c": 5,
+            "d": 0,
+            "tid": 5
+        },
+        {
+            "id": 1,
+            "r": 1,
+            "c": 1,
+            "d": 0,
+            "tid": 4
+        }
+    ]
+}

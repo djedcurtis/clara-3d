@@ -1,0 +1,15 @@
+{
+    "id": "RS776yzdo4PunpTWC",
+    "name": "Plotting Linear Functions",
+    "rows": 8,
+    "columns": 14,
+    "tiles": [
+        {
+            "name": "Player",
+            "r": 7,
+            "c": 13,
+            "d": 0,
+            "tid": 9
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "nCYrEwLSgDqGY5H9t",
+    "name": "Candles for Age (City Campus)",
+    "rows": 15,
+    "columns": 20,
+    "tiles": [
+        {
+            "r": 13,
+            "c": 1,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

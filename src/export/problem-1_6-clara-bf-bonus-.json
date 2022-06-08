@@ -1,0 +1,15 @@
+{
+    "id": "H5X9omPBryoE4upLS",
+    "name": "Problem 1_6 Clara BF (BONUS)",
+    "rows": 10,
+    "columns": 10,
+    "tiles": [
+        {
+            "id": 1,
+            "r": 8,
+            "c": 1,
+            "d": 0,
+            "tid": 4
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "T5TPaicAWa7RkBmJ9",
+    "name": "Simple Act Method",
+    "rows": 5,
+    "columns": 5,
+    "tiles": [
+        {
+            "r": 2,
+            "c": 0,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

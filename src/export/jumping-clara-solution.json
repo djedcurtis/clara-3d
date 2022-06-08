@@ -1,0 +1,14 @@
+{
+    "id": "m989QGejAfAxc2J7Z",
+    "name": "Jumping Clara Solution",
+    "rows": 10,
+    "columns": 20,
+    "tiles": [
+        {
+            "r": 9,
+            "c": 0,
+            "d": 1,
+            "tid": 4
+        }
+    ]
+}

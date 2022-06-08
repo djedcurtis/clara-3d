@@ -1,0 +1,14 @@
+{
+    "id": "LacwFvLC4TXAMsFEN",
+    "name": "Problem 6_3 - Candles for Age",
+    "rows": 15,
+    "columns": 20,
+    "tiles": [
+        {
+            "r": 13,
+            "c": 1,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "BQk8jWPhPfvhrwKCR",
+    "name": "Problem 6_2 (City Campus) -  Multiple Rooms",
+    "rows": 15,
+    "columns": 20,
+    "tiles": [
+        {
+            "r": 13,
+            "c": 1,
+            "tid": 4,
+            "d": 1
+        }
+    ]
+}

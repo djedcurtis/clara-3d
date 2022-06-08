@@ -1,0 +1,15 @@
+{
+    "id": "phn5k3XhiSsCvggB2",
+    "name": "array_ok",
+    "rows": 50,
+    "columns": 50,
+    "tiles": [
+        {
+            "id": 1,
+            "r": 0,
+            "c": 0,
+            "d": 0,
+            "tid": 4
+        }
+    ]
+}
