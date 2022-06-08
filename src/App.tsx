@@ -6,6 +6,7 @@ import "./App.css";
 import { SceneLoader } from "./SceneLoader";
 import { scene } from "./scenes/scene1";
 
+
 // DOCUMENTATION
 // "scene" contains and array of tile definitions
 // r - row
